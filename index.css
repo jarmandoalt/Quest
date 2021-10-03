@@ -41,7 +41,7 @@
 	border-radius: 0;
 	
 	border-style: hidden;
-	font-size: 10vw;
+	font-size: 5vw;
 	color: rgb(45, 63, 92);
 	font-family: monospace;
     text-align: center;
@@ -58,7 +58,7 @@
     font-family:monospace;
     color: hotpink;
     width: 60%;
-    font-size: 5vw;
+    font-size: 3vw;
     margin: 1rem auto;
     display: block;
     text-align: center;
