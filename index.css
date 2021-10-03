@@ -26,8 +26,8 @@
 .content-select{
 	
 	position: relative;
-    margin-left: 1vw;
-    width: 98vw;
+    margin-left: 5vw;
+    width: 90vw;
 }
  
 .content-select select{
@@ -41,7 +41,7 @@
 	border-radius: 0;
 	
 	border-style: hidden;
-	font-size: 2vw;
+	font-size: 10vw;
 	color: rgb(45, 63, 92);
 	font-family: monospace;
     text-align: center;
@@ -58,7 +58,7 @@
     font-family:monospace;
     color: hotpink;
     width: 60%;
-    font-size:.9vw;
+    font-size: 10vw;
     margin: 1rem auto;
     display: block;
     text-align: center;
@@ -67,7 +67,7 @@
 }
 
 .mensaje{
-    font-size: 25px;
+    font-size: 10vw;
     color: rgb(45, 63, 92);
     text-align: center;
 }
@@ -76,7 +76,7 @@
     text-decoration: none;
     padding: 10px;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 10vw;
     color: #ffffff;
     background-color: #7bb3cf;
     border-radius: 6px;
