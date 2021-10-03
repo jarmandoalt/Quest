@@ -534,7 +534,7 @@ function todo() {
         const $h2 = document.createElement("h2"),
           acier = aciert;
 
-        $h2.innerHTML = `<h2> La respuesta es: Daniela</h2>`;
+        $h2.innerHTML = `<h2> La respuesta es: Diana</h2>`;
         $h2.classList.add("error");
         return $h2;
         }
