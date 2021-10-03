@@ -1,0 +1,91 @@
+.body{
+    background-color: honeydew;
+    z-index: 10;
+}
+
+#title{
+    background-color: rgb(45, 63, 92);;
+    font-size: 80px;
+    color: white;
+    z-index: 99;
+    font-family: teko;
+    text-align: center;
+}
+
+
+
+.content-select select{
+	appearance: none;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+}
+
+.content-select select::-ms-expand {
+    display: none;
+}
+.content-select{
+	
+	position: relative;
+    margin-left: 10vw;
+    width: 80vw;
+}
+ 
+.content-select select{
+	display: inline-block;
+	width: 100%;
+	cursor: pointer;
+  	padding: 7px 10px;
+  	height: 42px;
+  	outline: 0; 
+  	border: 2px;
+	border-radius: 0;
+	
+	border-style: hidden;
+	font-size: 2vw;
+	color: rgb(45, 63, 92);
+	font-family: monospace;
+    text-align: center;
+	
+}
+    
+ 
+.content-select select:hover{
+	background: rgb(45, 63, 92,0.9);
+    color: rgb(242, 243, 243);
+}
+ 
+.error {
+    font-family:monospace;
+    color: hotpink;
+    width: 60%;
+    font-size:.9vw;
+    margin: 1rem auto;
+    display: block;
+    text-align: center;
+    border-radius: 3px;
+    z-index: 25;
+}
+
+.mensaje{
+    font-size: 25px;
+    color: rgb(45, 63, 92);
+    text-align: center;
+}
+
+#btn{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #7bb3cf;
+    border-radius: 6px;
+    border: 1px cadetblue;
+    margin-left: 46vw;
+    width: 8vw;
+}
+
+#obtn:hover{
+    color: #18323f;
+    background-color: cadetblue;
+}
