@@ -81,6 +81,7 @@
     border: 1px cadetblue;
     margin-left: 30vw;
     width: 40vw;
+	cursor: pointer;
 }
 
 #btn:hover{
