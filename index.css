@@ -26,8 +26,8 @@
 .content-select{
 	
 	position: relative;
-    margin-left: 5vw;
-    width: 90vw;
+   
+    width: 98vw;
 }
  
 .content-select select{
@@ -41,7 +41,7 @@
 	border-radius: 0;
 	
 	border-style: hidden;
-	font-size: 5vw;
+	font-size: 3vw;
 	color: rgb(45, 63, 92);
 	font-family: monospace;
     text-align: center;
