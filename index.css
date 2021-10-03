@@ -41,7 +41,7 @@
 	border-radius: 0;
 	
 	border-style: hidden;
-	font-size: 5vw;
+	font-size: 2vw;
 	color: rgb(45, 63, 92);
 	font-family: monospace;
     text-align: center;
@@ -57,7 +57,7 @@
 .error {
     font-family:monospace;
     color: hotpink;
-    font-size:5vw;
+    font-size:2vw;
     margin: 1rem auto;
     display: block;
     text-align: center;
